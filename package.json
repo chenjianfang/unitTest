@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "unit": "mocha"
   },
   "keywords": [
     "testing",
@@ -17,9 +17,9 @@
     "babel-preset-es2015": "~6.1.18",
     "chai": "~3.4.1",
     "mocha": "~2.3.4",
-    "mochawesome": "~1.2.1",
+    "mochawesome": "~1.2.1"
   },
   "dependencies": {
-    "node-fetch": "~1.3.3",
+    "node-fetch": "~1.3.3"
   }
 }
