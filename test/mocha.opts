@@ -1,0 +1,6 @@
+test
+--recursive
+--watch
+--compilers js:babel-core/register
+-t 3000 
+-s 500
